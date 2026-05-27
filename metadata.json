@@ -1,0 +1,6 @@
+{
+  "name": "RemindMe Task Manager",
+  "description": "A modern, professional reminder and task manager with customizable repeating notification intervals, offline Room database, snoozing options, history logs, and secure user accounts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
